@@ -1,5 +1,5 @@
 <h1 align="center"> Hi , I'm Mohanad 👋</h1>
-<h3 align="center"> <div> 🚀 About Me : </div> I'm a computer science student at GUC who's really into full-stack development , I'm eager to expand my knowledge and skills in this area.</h3>
+<h3 align="center"> <div> 🚀 About Me : </div> I'm a Computer Science and Engineering student at the GUC who's really into full-stack development.</h3>
 
 <img align="right" alt="coding" width="400" src= "https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -8,6 +8,6 @@
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohanad nasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanad nasar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohanad-nasar-485301248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanad-nasar" height="30" width="40" /></a>
 <a href="https://instagram.com/mohanadnasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohanadnasar" height="30" width="40" /></a>
 </p>
