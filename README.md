@@ -1,5 +1,5 @@
 <h1 align="center"> Hey , I'm Mohanad 👋</h1>
-<h3 align="center"> <div> 🚀 About Me : </div>  I'm a GUC Computer Science and Engineering student on a mission to conquer full-stack development, Let's keep coding until something cool pops up! 😎💻 </h3>
+<h3 align="center"> <div> 🚀 About Me : </div>  I'm a Computer Science and Engineering student on a mission to conquer full-stack development, Let's keep coding until something cool pops up! 😎💻 </h3>
 
 <img align="right" alt="coding" width= "400" src= "https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 
